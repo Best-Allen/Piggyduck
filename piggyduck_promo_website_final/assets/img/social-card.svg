@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#2477ff"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="48" fill="url(#g)"/>
+  <circle cx="965" cy="120" r="220" fill="rgba(255,255,255,.12)"/>
+  <text x="90" y="210" fill="#ffffff" font-size="72" font-family="Arial, sans-serif" font-weight="800">一只居和鸭 PigDucker</text>
+  <text x="90" y="310" fill="#dbeafe" font-size="40" font-family="Arial, sans-serif" font-weight="600">美股研究 · 每日会员直播 · 低回撤纪律训练</text>
+  <text x="90" y="420" fill="#ffffff" font-size="32" font-family="Arial, sans-serif">discord.gg/piggyduck</text>
+</svg>
